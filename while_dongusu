@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        
+        var kullaniciSayisi= prompt("1'den 100'e kadar bir sayı gir. Oradan 100 ' e kadar yazdırayım." , " " );
+        var i = kullaniciSayisi;
+        while (i<100)
+        {
+            document.write(i+ "<br>");
+            i++
+        }
+
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
+
+<!--
+    var i=2000;
+    while (i<=2017)
+    {
+        document.write(i+ "<br>");
+        i++
+    }
+
+-->
