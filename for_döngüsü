@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        var kullaniciSayisi= prompt ("1'den 100'e kadar olan vir sayı gir. Ben bu sayıdan 100'e kadar yazdıracağım.");
+
+        for (var i= kullaniciSayisi; i<100 ; i++)
+        {
+            document.write(i+ "<br>");
+        }
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
+
+<!--Haziran ayının günlerini tek tek yazdıran program döngüsü:-->
+<!-- for(var i=1; i<=30; i++ )
+        {
+            document.write(i+ "Haziran <br>");
+        }
+    -->
