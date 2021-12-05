@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+
+        function kontrol()
+        {
+            var ornek1= "örnek1"
+            var ornek2= "örnek2"
+
+        }
+
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+
+
+        function toplam()
+        {
+            var kullaniciSayisi1= prompt("Lütfen 1. sayı değerini giriniz:", " ");
+            var kullaniciSayisi2= prompt("Lütfen 2. sayı değerini giriniz:", " ");
+            alert (parseInt(kullaniciSayisi1) + parseInt(kullaniciSayisi2));
+
+        }
+        toplam();
+
+
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
