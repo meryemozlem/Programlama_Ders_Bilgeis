@@ -1,0 +1,28 @@
+<!--Programlamanın Temelleri Ödevi
+Ödev 2: Koşullu Programlama 
+a ve b adında iki değişken oluşturun,
+a değişkenine 5, b değişkenine 8 sayısını atayın,
+Koşullu programlama olarak a değişkeni 5’ten küçükse “a değişkeni ile b değişkenini topla”,
+değilse “b değişkeninden a değişkenini çıkar” kodunu yazın. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        var a =5 ;
+        var b =8;
+    if (a<5)
+    {
+        document.write (a+b) ;
+    }
+    else
+    {
+        document.write (b-a) ;
+    }
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
