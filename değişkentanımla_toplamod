@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title></title>
+        <script type="text/javascript">
+        var a=5;
+        var b=10;
+
+        var sonucToplama =a+b;
+        var sonucCikarma =a-b;
+        var sonucCarpma =a*b;
+        var sonucBolme =a/b;
+        var sonucMod= a%b;
+        </script> 
+    </head>
+
+        <body>
+
+
+        </body>
+    </html>
