@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title></title>
+        <script type="text/javascript">
+
+        switch {
+            case "kosul1":
+                //komutlar koşula göre yazılır.
+            break;
+
+            case "kosul2":
+                //koşula göre komutlar.
+            break;
+
+            default:
+                //hiç bir koşulun sağlanmadığı durumdur
+        }
+
+        </script> 
+    </head>
+
+        <body>
+
+
+        </body>
+    </html>
