@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+        /*var sayilar= ["sıfır","bir","iki","üç" ];
+        for (var i=0; i<sayilar.lenght; i++)
+        {
+        document.write(Sayilar[i] );
+        }*/
+
+        var i=1923;
+        while(i<=2017)
+        {
+            document.write(i);
+            i++;
+        }
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
