@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+        var iller=["Adana","Isparta","Hatay","Şanlıurfa"];
+        iller.push("Ankara");
+        iller.splice(1,1);
+        document.write(iller);
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
