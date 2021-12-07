@@ -1,0 +1,14 @@
+ÖDEV 3 
+Fonksiyon Oluşturma
+Bu ödevde, kullanıcıdan alacağınız iki sayıyı birbiriyle çarpıp sonucu ekrana getiren bir fonksiyon içeren kodu yazmanız beklenmektedir.
+
+
+
+var kullaniciDegeri1 = prompt("Birinci sayıyı giriniz:" , " ");
+var kullaniciDegeri2 = prompt ("İkinci sayıyı giriniz:" , " ");
+
+function carpim (kullaniciDegeri1,kullaniciDegeri2)
+{
+alert(Number(kullaniciDegeri1) * Number(kullaniciDegeri2));
+}
+carpim("kullaniciDegeri1","kullaniciDegeri2");
