@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+        /*var markalar=["Fiat", "Audi", "Toyota", "Mercedes" , "Renault"];
+        markalar.splice(2,3);
+        document.write(markalar);*/
+
+
+        var haftaninGunleri = new Array ("pazartesi", "salı", "çarşamba", "perşembe", "cuma", "cumartesi", "pazar");
+        haftaninGunleri.sort();
+        document.write(haftaninGunleri);
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
