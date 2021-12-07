@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        
+        //var rakamlar ["sıfır","bir","iki","üç","dört"];
+
+        var rakamlar=[3,9,7,5,2];
+        document.write(rakamlar.sort());
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
