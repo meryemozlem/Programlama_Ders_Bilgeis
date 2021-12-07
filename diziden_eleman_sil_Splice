@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+
+        var sayilar=["sıfır","bir","iki","üç"];
+        //sayilar.unshift("eksi üç", "eksi iki", "eksi bir");
+        sayilar.splice(0,3);
+        document.write(sayilar);
+
+    </script>
+</head>
+<body>   
+</body>
+
+</html>
